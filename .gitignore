@@ -2,12 +2,8 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 data/raw/
-models/*.pt
-outputs/*.png
-outputs/*.txt
-outputs/*.csv
+_dataset_extract/
 .DS_Store
 .env
 .venv/
 venv/
-
