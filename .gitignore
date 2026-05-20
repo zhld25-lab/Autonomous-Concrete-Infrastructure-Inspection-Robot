@@ -3,6 +3,9 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/
 _dataset_extract/
+Skywork_*.zip
+Skywork_Dataset_Samples/
+Bilingual_*.pdf
 .DS_Store
 .env
 .venv/
